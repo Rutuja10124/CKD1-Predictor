@@ -74,6 +74,6 @@ This project is licensed under the MIT License – feel free to use and modify i
 Author
 Rutuja Bhusare
 teammates 
-shreya ausekar
-sandhya shengale
+shreya ausekar,
+sandhya shengale,
 anjali gurav
